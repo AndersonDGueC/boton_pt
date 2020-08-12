@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './image/icon.png'
+import logo from './image/logo.gif'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './style/style.css';
 
